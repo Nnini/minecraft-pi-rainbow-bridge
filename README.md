@@ -11,6 +11,8 @@ Quick Links:
 <a id="about_this_script"></a>
 ### About minecraft-pi-rainbow-bridge:
 ![alt text](sample.gif "sample")
+
+
 This is a simple script for minecraft-pi. the script reads the block under the player, if it's wool, light up the RGB module with the wool color. 
 
 <a id="update"></a>
